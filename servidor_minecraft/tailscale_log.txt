@@ -1,0 +1,10 @@
+2025/03/12 17:25:24 fixConsoleOutput: attachconsole: The parameter is incorrect.
+logtail started
+Program starting: v1.80.2-t62b8bf6a0-g3c35ee987, Go 1.23.5: []string{"tailscale-ipn"}
+LogID: 4ab71622d5f01784135c645215309f21006428df2f89318f234f423c8ea41ea6
+logpolicy: using LocalAppData dir C:\Users\User\AppData\Local\Tailscale
+stdout ok.
+stderr ok.
+log ok.
+Running UI client...
+ui: Cannot create mutex Local\TailscaleUIMutex; UI already running.
